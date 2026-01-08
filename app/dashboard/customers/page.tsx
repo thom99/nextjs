@@ -8,6 +8,7 @@ export default function Page() {
   return (
     <>
       <h1>Customers</h1>
+      <h2>Added new branch</h2>
       <p>Customers Page</p>
     </>
   );
